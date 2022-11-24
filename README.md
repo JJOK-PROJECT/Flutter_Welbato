@@ -21,10 +21,10 @@
 
 ## 팀원역할
 
-- **Mobile-FrontEnd** : 조용제(Lovingcats)[https://github.com/Lovingcats]
-- **Web_FrontEnd** : 우수경(sookyoungwoo)[https://github.com/sookyoungwoo]
-- **BackEnd** : 정현우(over1234)[https://github.com/over1234]
-- **학교 API 관련 FrontEnd** : 김준서(B-KJS26)[https://github.com/B-KJS26] 
+- **Mobile-FrontEnd** : 조용제([Lovingcats](https://github.com/Lovingcats))
+- **Web_FrontEnd** : 우수경([sookyoungwoo](https://github.com/sookyoungwoo))
+- **BackEnd** : 정현우([over1234](https://github.com/over1234))
+- **학교 API 관련 FrontEnd** : 김준서([B-KJS26](https://github.com/B-KJS26))
 <br>
 		
 ## 앱 설명
@@ -32,8 +32,7 @@
 <br>
 		
 ### 앱을 만들게 된 계기
-가끔씩 코딩을 하다가 중간에 휴대폰을 계속 봐서 집중력이 흐트러지는 경우가
-많았는데 교내 랭킹으로 승부욕을 늘리고 휴대폰 사용을 못하게 하면 어떨까 라고 생각하게 되어 해당 앱을 생각하게 되었습니다
+
 
 <br>
 		
