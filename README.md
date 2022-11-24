@@ -19,6 +19,10 @@
 	<img src="https://user-images.githubusercontent.com/89582664/203699019-6844429b-5d0e-4e12-94fc-d3e490bbb928.png" width="550">
 </p>
 
+## 커밋기록
+
+커밋기록은 [여기서]() 확인하실 수 있습니다.
+
 ## 팀원역할
 
 - **Mobile-FrontEnd** : 조용제([Lovingcats](https://github.com/Lovingcats))
