@@ -38,9 +38,8 @@
 <br>
 		
 ### 개발하고자 하는 목표
-부산SW마이스터고에 오고싶은 학생이나 부산SW마이스터고가 궁금한 사람들이<br>
-편하게 우리 학교를 둘러보고 
-
+부산SW마이스터고에 오고 싶은 학생이나 부산SW마이스터고가 궁금한 사람들이<br>
+편하게 우리 학교를 둘러보고 학교 인지도를 높이는 것
 <br>
 		
 ### 사용기술스택
@@ -89,7 +88,7 @@ Flutter doctor에서 오류가 난다면 구글링 후 해결
 ## 배운점 & 아쉬운점
 		
 ### 배운점
- - Provider의 개념과 MultiProvider의 활용
+ - Web
  - AnimatedOpacty, AnimatedPadding, AnimatedCotianer, AnimatedScale등등 애니메이션 기능 활용
  - 프론트에서 서버까지의 흐름
  - JWT 방식
