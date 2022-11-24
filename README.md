@@ -21,7 +21,7 @@
 
 ## 커밋기록
 
-커밋기록은 [여기서]() 확인하실 수 있습니다
+커밋기록은 [여기서](https://github.com/Lovingcats/Flutter_project/tree/master/welcome/welcome) 확인하실 수 있습니다
 
 <br>.
 
