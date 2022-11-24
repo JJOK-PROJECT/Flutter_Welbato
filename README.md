@@ -47,7 +47,7 @@
 <br>
 웹 : [React](https://ko.reactjs.org/)
 <br>
-백엔드 :  [Node.js](https://nodejs.org/ko/)
+백엔드 :  [Node.js](https://nodejs.org/ko/), [MySql](https://www.mysql.com/)
 
 	
 <br>
@@ -76,26 +76,27 @@ Flutter doctor에서 오류가 난다면 구글링 후 해결
 		
 ## 기능
 
-- 로그인  [bsmOauth(부산소프트웨어마이스터고 전용 로그인)](https://auth.bssm.kro.kr/oauth?clientId=5f034939&redirectURI=http://localhost:3000/oauth) 소셜로그인 (완료)
-- 회원가입 닉네임생성 (완료)
-- Timer (완료)
-- Todo List (미완)
-- 랭킹 (미완)
-- 통계 (미완)
+- 로그인 (완료)
+- 회원가입 (완료)
+- 아이디찾기/비밀번호찾기 (완료)
+- 급식표 (완료)
+- 시간표 (완료)
+- 학사일정 (완료)
+- VR (완료)
+- 커뮤니티 (미완)
 		
 <br>
 		
 ## 배운점 & 아쉬운점
 		
 ### 배운점
- - Web
- - AnimatedOpacty, AnimatedPadding, AnimatedCotianer, AnimatedScale등등 애니메이션 기능 활용
- - 프론트에서 서버까지의 흐름
- - JWT 방식
+ - PageView 위젯에서 정말 많은 오류가 발생했었는데 flutter ([공식홈페이지](https://flutter-ko.dev/docs))에서 자료를 찾아 해결함
+ - 프론트앤드에서 하기 어려운 작업을 디자이너와 상의해서 바꿔서 개발했던점에서 디자이너와의 의사소통을 배웠습니다
+ - 백엔드와 상의해서 예외처리를 위한 값을 받음으로서 백엔드와의 의사소통 또한 배웠습니다
+ - 예전에 했던 백엔드와 프론트엔드와의 연동에 대해 확실하게 할 수 있었습니다
 		
 ### 아쉬운점
- - To-do 페이지에서 애니메이션 구현에서 시간을 너무 많이 잡아먹은점
- - 타이머를 눌렀을 때 휴대폰 내에 아무기능도 사용하지 못하게 하는 기능을 구현
+ - 이번 프로젝트를 진행하면서 커뮤니티페이지 구현이 미흡하여 아쉽습니다
  
  
 ## Git upload Rules
