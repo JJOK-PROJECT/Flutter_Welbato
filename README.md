@@ -9,7 +9,7 @@
 	VR시스템을 활용한 부산SW마이스터고 학교 소개 서비스 🏫 
 </h3>
 
-<p align="center">
+<p align="center"> 
 	<strong>
 		<a href="https://www.figma.com/file/s9UTGx6wXMEk8Xic5bhkgE/JJOK-team-library?node-id=1792%3A535&t=Gk2Pgox1bAyfxCLj-0">Design</a>
 		
