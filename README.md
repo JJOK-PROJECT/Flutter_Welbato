@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-	VR시스템을 활용한 부산SW마이스터고 학교 소개 서비스 🏫 
+	VR시스템을 활용한 부산 SW마이스터고 학교 소개 서비스 🏫 
 </h3>
 
 <p align="center"> 
