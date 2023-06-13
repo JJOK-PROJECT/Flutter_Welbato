@@ -28,7 +28,7 @@
 ## 팀원역할
 
 - **Mobile-FrontEnd** : 조용제([Lovingcats](https://github.com/Lovingcats))
-- **Web_FrontEnd** : 우수경([sookyoungwoo](https://github.com/sookyoungwoo))
+- **Web_FrontEnd** : 우수경([sookyoungwoo](https://github.com/sookyoungwoo)), 김준서([B-KJS26](https://github.com/B-KJS26))
 - **BackEnd** : 정현우([over1234](https://github.com/over1234))
 - **학교 API 관련 FrontEnd** : 김준서([B-KJS26](https://github.com/B-KJS26))
 <br>
